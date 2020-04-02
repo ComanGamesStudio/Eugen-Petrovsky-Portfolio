@@ -1,5 +1,5 @@
 # Eugen Petrovsky Portfolio
-I develop difrent 3D graphics for Unit for last 6 years
+I create 3D grapnics and CG last 6 years.
 
 # 2014
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Carrot%20Run/photo_2020-04-03_02-08-44.jpg?raw=true)
@@ -17,15 +17,13 @@ I develop difrent 3D graphics for Unit for last 6 years
 Our Big game 
 ### Pain of teeth
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Pain_Of_teeth.png?raw=true)
-
-
-![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
-
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Pain_Of_teeth_2.png?raw=true)
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/CarrotEatMeat.gif?raw=true)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
 
 # 2017
 
 1.Gear VR alien games 
-
 
 ### Alien Shooter
 ![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/AlienGun.gif)
@@ -42,7 +40,7 @@ In this project I was making guns
 # 2018
 
 ### Smash The Snack
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/SmashTheSnack.gif)
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Smash_the_scnack_3.gif?raw=true)
 
 ## Video AR Processing 
 
@@ -56,5 +54,8 @@ In this project I was making guns
 
 
 #2019
+### For Students
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Model%20for%20students.png?raw=true)
+
 ### Dental work
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/preparation_set.gif?raw=true)
