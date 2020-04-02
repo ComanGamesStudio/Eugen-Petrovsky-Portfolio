@@ -3,9 +3,16 @@ Portfolio of Eugen Petrovskiy
 ## Custom products VR Game
 
 1.Gear VR alien games 
-
 ### Alien Shooter
 ![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/AlienGun.gif)
+
+In this project I was making guns 
+
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/photo_2017-08-04_00-33-14.jpg?raw=true)
+
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/photo_2017-08-04_00-33-15.jpg?raw=true)
+
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/photo_2017-08-04_00-33-16.jpg?raw=true)
 
 
 ### Smash The Snack
@@ -22,6 +29,10 @@ Portfolio of Eugen Petrovskiy
 ![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/Resources/VideoProcessing_output.gif)
 
 ## Games
+I love difrent sort of fruits and e.t.c
+###Rock Bamd 
+![image](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/VixedLightning.jpg?raw=true)
+
 
 ### Carrot Run Very Early game
  #[Video Review](https://www.youtube.com/watch?v=4N71f0jmSN8)
@@ -30,7 +41,5 @@ Portfolio of Eugen Petrovskiy
 ### Pain of Teeth
 ![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
 
-#[Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=880079211)
-
-
-![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/PainOfTeethSteam.jpg)
+### Dental work
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/preparation_set.gif?raw=true)
