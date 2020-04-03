@@ -18,8 +18,11 @@ Our Big game
 ### Pain of teeth
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Pain_Of_teeth.png?raw=true)
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Pain_Of_teeth_2.png?raw=true)
-![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/CarrotEatMeat.gif?raw=true)
 ![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
+
+### Video
+
+![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/CarrotEatMeat.gif?raw=true)
 
 # 2017
 
@@ -45,15 +48,17 @@ In this project I was making guns
 ## Video AR Processing 
 
 ###  Input
-
 ![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/Resources/VideoProcessing_input.gif)
 
 ### Output 
-
 ![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/Resources/VideoProcessing_output.gif)
 
 
 #2019
+### Bulls Eye
+![](https://raw.githubusercontent.com/ComanGames/Bullseye/master/Resources/Shooting.gif)
+
+
 ### For Students
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Model%20for%20students.png?raw=true)
 
