@@ -55,9 +55,6 @@ In this project I was making guns
 
 
 #2019
-### Bulls Eye
-![](https://raw.githubusercontent.com/ComanGames/Bullseye/master/Resources/Shooting.gif)
-
 
 ### For Students
 ![](https://github.com/ComanGamesStudio/Eugen-Petrovsky-Portfolio/blob/master/Materials/Model%20for%20students.png?raw=true)
